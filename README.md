@@ -1,1 +1,1 @@
-Aprendiendo a usar el lenguaje C
+Aprendiendo a usar el lenguaje c

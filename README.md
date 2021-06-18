@@ -1,1 +1,1 @@
-Aprendiendo a usar el lenguaje c
+en este proyecto se realizara comandos de C
